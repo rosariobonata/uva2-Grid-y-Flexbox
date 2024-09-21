@@ -1,0 +1,24 @@
+#titulo{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-align: center;
+    color:chocolate;
+}
+
+.disposicion{
+    display: flexbox;
+}
+
+.fotosize{
+    width: 470px;
+    height: 500px;
+    padding: 2px;
+    margin: 10px;
+}
+
+.sizehorizontal{
+    width: 470px;
+    height: 270px;
+    padding: 2px;
+    margin: 10px;
+}
